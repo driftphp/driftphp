@@ -4,10 +4,10 @@
   <img src="driftphp.png">
 </p>
 
-Welcome to DriftPHP, a PHP framework built on top of ReactPHP and Symfony
-components. Here you have a curated list of components, resources and
-interesting DriftPHP realted items, specifically designed for you to start using
-the framework the best and most optimal way.
+Welcome to DriftPHP, a **PHP framework** built on top of **ReactPHP** and 
+**Symfony** components. Here you have a curated list of components, resources
+and interesting DriftPHP realted items, specifically designed for you to start
+using the framework the best and most optimal and efficient way.
 
 ## Core Components
 
@@ -36,5 +36,12 @@ the framework the best and most optimal way.
 
 ## Others
 
-- [Twitter account](https://twitter.com/driftphp)
+- [Twitter account](https://twitter.com/driftphp) - Follow us
+- [Github account](https://github.com/driftphp) - Follow us
 - [Docker Hub account](https://hub.docker.com/u/driftphp)
+
+## About us
+
+DriftPHP is packed and maintained by [@mmoreram](https://github.com/mmoreram)
+and supported by the community. Don't hesitate to donate if you want this
+project to be funded.
